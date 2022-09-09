@@ -2,7 +2,7 @@
 Python  Daily  Code
 
 ## Docs
-- https://python.plainenglish.io/from-zero-to-hero-in-python-in-just-10-minutes-83064ffd5aee
+- https://python.plainenglish.io/10-python-automation-scripts-for-everyday-problems-3ca0f2011282
 - https://python.plainenglish.io/from-zero-to-hero-in-python-in-just-10-minutes-83064ffd5aee
 
 ## Install
