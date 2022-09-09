@@ -8,6 +8,6 @@ api= f"https://newsapi.org/v2/everything?q={query}&apiKey={Key}"
 req = requests.get(api)
 print(req.json())
 # Fetch Top Headlines
-api= f"https://newsapi.org/v2/top-headlines?country=us&apiKey={Key}"
+api= f"https://newsapi.org/v2/top-headlines?country=fr&apiKey={Key}"
 req = requests.get(api)
 print(req.json())
