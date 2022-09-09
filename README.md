@@ -1,6 +1,10 @@
 # pythondailycode
 Python  Daily  Code
 
+## Docs
+- https://python.plainenglish.io/from-zero-to-hero-in-python-in-just-10-minutes-83064ffd5aee
+- https://python.plainenglish.io/from-zero-to-hero-in-python-in-just-10-minutes-83064ffd5aee
+
 ## Install
 
 ```
